@@ -1,0 +1,95 @@
+[
+    {
+      "id": 1,
+      "first": "Biden Jr., Joseph Robinette",
+      "position": "US President-elect",
+      "birth": "November 20, 1942",
+      "email": "joe.biden@newwhitehouse.com",
+      "cell": "123-321-1234",
+      "pic": "https://cdn.vox-cdn.com/thumbor/99gI5lIUGd8Fw6oBQILyCT8T9bo=/0x0:1904x1060/1200x800/filters:focal(547x280:851x584)/cdn.vox-cdn.com/uploads/chorus_image/image/68554064/1230199305.0.jpg"
+
+    },
+    {
+        "id": 2,
+        "first": "Harris, Kamala Devi",
+        "position": "US Vice President-elect",
+        "birth": "October 20, 1964",
+        "email": "kamala@newwhitehouse.com",
+        "cell": "432-555-5439",
+        "pic": "https://charactermedia.com/wp-content/uploads/2019/01/kamala-harris.jpg"
+      },
+    {
+      "id": 3,
+      "first": "Klain, Ron",
+      "position": "Chief of Staff",
+      "birth": "August 8, 1961",
+      "email": "ron@newwhitehouse.com",
+      "cell": "436-873-1265",
+      "pic": "https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F201111195626-ron-klain-200310.jpg"
+    },
+    {
+      "id": 4,
+      "first": "Zients, Jeff",
+      "position": "Counselor to the President",
+      "birth": "November 12, 1966",
+      "email": "jeff@newwhitehouse.com",
+      "cell": "465-243-8754",
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jeffrey_Zients_official_portrait.jpg/220px-Jeffrey_Zients_official_portrait.jpg"
+
+    },
+    {
+      "id": 5,
+      "first": "Tanden, Neera",
+      "position": "Director, Office of Management and Budget",
+      "birth": "September 10, 1970",
+      "email": "Neera@newwhitehouse.com",
+      "cell": "354-523-8475",
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/6/67/Neera_Tanden_by_Gage_Skidmore.jpg"
+
+    }, {
+      "id": 6,
+      "first": "Deese, Brian",
+      "position": "Director, National Economic Council",
+      "birth": "February 17, 1978",
+      "email": "brian@newwhitehouse.com",
+      "cell": "543-765-1235",
+      "pic": "https://static.politico.com/3f/48/3233e256494fbf8360310d0e00d2/ap120417020639.jpg"
+
+    }, {
+      "id": 7,
+      "first": "Rice, Susan",
+      "position": "Director, Domestic Policy Council",
+      "birth": "November 17, 1964",
+      "email": "susan@newwhitehouse.com",
+      "cell": "543-654-1265",
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Susan_Rice_official_photo.jpg"
+
+    }, {
+      "id": 8,
+      "first": "Terrell, Louisa",
+      "position": "Director, Office of Legislative Affairs",
+      "birth": "10-28-1949",
+      "email": "louisa@newwhitehouse.com",
+      "cell": "543-234-1247",
+      "pic": "https://www.netrootsnation.org/wp-content/uploads/userphoto/1173.png"
+
+    }, {
+      "id": 9,
+      "first": "Kerry, John",
+      "position": "Special Presidential Envoy for Climate",
+      "birth": "December 11, 1943",
+      "email": "john@newwhitehouse.com",
+      "cell": "343-213-9811",
+      "pic": "https://pbs.twimg.com/profile_images/1205176184906092545/fI6BP6PK.jpg"
+
+    }, {
+      "id": 10,
+      "first": "Russell, Cathy",
+      "position": "Director, White House Office of Presidential Personnel",
+      "birth": "October-11-1961",
+      "email": "Cathy@newwhitehouse.com",
+      "cell": "435-345-9845",
+      "pic": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioA.4VDSF3IE/v0/1200x800.jpg"
+
+    }
+  ]
