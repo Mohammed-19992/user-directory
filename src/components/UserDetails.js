@@ -6,12 +6,12 @@ import "./style.css";
 function UserDetails(props) {
   console.log(props)
 
-  const resultsFirst = Directory.filter(user => user.first.toLowerCase().includes(props.search.toLowerCase()));
+  const firstUser = Directory.filter(user => user.first.toLowerCase().includes(props.search.toLowerCase()));
 
   return (
     <div>
       <h2 id="title" className="text-center table-title">Joe Biden Staff Members Directory</h2>
-      {resultsFirst.length > 0 ? (
+      {firstUser.length > 0 ? (
         <table className="table table-bordered table-sm" id="table">
           <thead>
             <tr>
@@ -25,7 +25,7 @@ function UserDetails(props) {
             </tr>
           </thead>
           <tbody>
-            {resultsFirst.map(result => (
+            {firstUser.map(result => (
               <tr key={result.id}>
                 <td><b>{result.first}</b></td>
                 <td>{result.position}</td>
