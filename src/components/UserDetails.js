@@ -1,12 +1,12 @@
 // Importing libraries
 import React from "react";
-import UserList from "../data/directory.json";
+import Directory from "../data/directory.json";
 import "./style.css";
 
 function UserDetails(props) {
   console.log(props)
 
-  const resultsFirst = UserList.filter(user => user.first.toLowerCase().includes(props.search.toLowerCase()));
+  const resultsFirst = Directory.filter(user => user.first.toLowerCase().includes(props.search.toLowerCase()));
 
   return (
     <div>
